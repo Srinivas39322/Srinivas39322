@@ -1,4 +1,4 @@
-### <h1 align="center">Hello Folks! 🦹 I'm Srinivas Saiteja Tenneti</h1>
+### <h1 align="center">Hello Folks! 🦹  I'm Srinivas Saiteja Tenneti</h1>
 **<h3 align="center">I'm a passionate Data Science and AWS enthusiast with a strong interest in research and innovation.</h3>**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas39322" /> </p>
@@ -23,11 +23,6 @@
 
 ♟️ State-level chess player in 8th grade. ☁️ Certified in AWS, Azure, and Terraform.
 
-🧪 Worked on projects like X-ray disease classification and Detecting Duplicate Questions in Quora.
-
-🏐 Volleyball enthusiast who loves the game for focus and precision.
-
-🌍 Avid traveler with a recent trip to NewYork's stunning Christmas vibes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
