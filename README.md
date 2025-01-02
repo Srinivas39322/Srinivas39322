@@ -17,10 +17,15 @@
 
 ⚡ Fun fact 
 **🍳 Passionate cook inspired by my grandma’s recipes.**
+
 **🏏 Former captain of my university cricket and kabaddi teams.**
+
 **♟️ State-level chess player in 8th grade. ☁️ Certified in AWS, Azure, and Terraform.** 
+
 **🧪 Worked on projects like X-ray disease classification and Detecting Duplicate Questions in Quora.**
+
 **🏐 Volleyball enthusiast who loves the game for focus and precision.**
+
 **🌍 Avid traveler with a recent trip to NewYork's stunning Christmas vibes.**
 
 <h3 align="left">Connect with me:</h3>
