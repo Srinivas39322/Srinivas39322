@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P1MR1k85iXlYb3TzmflBrh3YRngc4rOD/view?usp=sharing](https://drive.google.com/file/d/1P1MR1k85iXlYb3TzmflBrh3YRngc4rOD/view?usp=sharing)
 
-<h3 align="left">⚡ Fun fact</h3>
+<h3 align="left">⚡ Fun fact:</h3>
 
 🍳 Passionate cook inspired by my grandma’s recipes.
 
