@@ -15,18 +15,19 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P1MR1k85iXlYb3TzmflBrh3YRngc4rOD/view?usp=sharing](https://drive.google.com/file/d/1P1MR1k85iXlYb3TzmflBrh3YRngc4rOD/view?usp=sharing)
 
-⚡ Fun fact 
-**🍳 Passionate cook inspired by my grandma’s recipes.**
+<h3 align="left">⚡ Fun fact</h3>
 
-**🏏 Former captain of my university cricket and kabaddi teams.**
+🍳 Passionate cook inspired by my grandma’s recipes.
 
-**♟️ State-level chess player in 8th grade. ☁️ Certified in AWS, Azure, and Terraform.** 
+🏏 Former captain of my university cricket and kabaddi teams.
 
-**🧪 Worked on projects like X-ray disease classification and Detecting Duplicate Questions in Quora.**
+♟️ State-level chess player in 8th grade. ☁️ Certified in AWS, Azure, and Terraform.
 
-**🏐 Volleyball enthusiast who loves the game for focus and precision.**
+🧪 Worked on projects like X-ray disease classification and Detecting Duplicate Questions in Quora.
 
-**🌍 Avid traveler with a recent trip to NewYork's stunning Christmas vibes.**
+🏐 Volleyball enthusiast who loves the game for focus and precision.
+
+🌍 Avid traveler with a recent trip to NewYork's stunning Christmas vibes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
