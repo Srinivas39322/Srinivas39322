@@ -47,6 +47,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Srinivas39322&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas39322&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+</p>
+
+
 
 
 
