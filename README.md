@@ -44,11 +44,20 @@
 ---
 
 ### 📊 GitHub Stats:
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinivas39322&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas39322&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinivas39322&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 195px;" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas39322&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="height: 195px;" />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Srinivas39322&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Profile Visit Count -->
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Srinivas39322&icon=0&color=0" alt="Visit Count" />
+  </a>
+</div>
+
 
 
