@@ -2,7 +2,7 @@
 **<h3 align="center">I'm a passionate Data Science and AWS enthusiast with a strong interest in research and innovation.</h3>**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views of Srinivas39322" />
+  <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=PROFILE%20VIEWS&color=1e90ff&style=flat-square" alt="Profile Views of Srinivas39322" />
 </p>
 
 
