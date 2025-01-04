@@ -1,12 +1,6 @@
 ## <h1 align="center">Hello Folks! 🦹  I'm Srinivas Saiteja Tenneti</h1>
 **<h3 align="center">I'm a passionate Data Science and AWS enthusiast with a strong interest in research and innovation.</h3>**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=PROFILE%20VIEWS&color=ff4500&style=flat-square" alt="Profile Views of Srinivas39322" />
-</p>
-
-
-
 ---
 
 ### 💫 About Me:
@@ -52,12 +46,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas39322&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=PROFILE%20VIEWS&color=1e90ff&style=for-the-badge" alt="Profile Views of Srinivas39322" />
+</p>
