@@ -1,7 +1,10 @@
 ## <h1 align="center">Hello Folks! 🦹  I'm Srinivas Saiteja Tenneti</h1>
 **<h3 align="center">I'm a passionate Data Science and AWS enthusiast with a strong interest in research and innovation.</h3>**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas39322" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views of Srinivas39322" />
+</p>
+
 
 ---
 
@@ -47,9 +50,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Srinivas39322&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas39322&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-</p>
 
 
 
