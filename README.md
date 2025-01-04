@@ -47,5 +47,5 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=PROFILE%20VIEWS&color=1e90ff&style=for-the-badge" alt="Profile Views of Srinivas39322" />
+  <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=PROFILE%20VIEWS&color=ff1493&style=for-the-badge" alt="Profile Views of Srinivas39322" />
 </p>
