@@ -2,8 +2,8 @@
 **<h3 align="center">I'm a passionate Data Science and AWS enthusiast with a strong interest in research and innovation.</h3>**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas39322" /> </p>
-### 💫 About Me:
 
+### 💫 About Me:
 - 🔭 I’m currently working on **Hybrid Methods for Detecting Duplicate Questions Using Machine Learning and Neural Networks.**
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning.**
