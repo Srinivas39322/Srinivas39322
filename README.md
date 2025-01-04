@@ -24,7 +24,9 @@
 
 🏏 Former captain of my university cricket and kabaddi teams.
 
-♟️ State-level chess player in 8th grade. ☁️ Certified in AWS, Azure, and Terraform.
+♟️ State-level chess player in 8th grade. 
+
+☁️ Certified in AWS, Azure, and Terraform.
 
 ---
 
