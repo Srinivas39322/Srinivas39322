@@ -1,5 +1,5 @@
 ## <h1 align="center">Hello Folks! 🦹  I'm Srinivas Saiteja Tenneti</h1>
-**<h3 align="center">### I'm a passionate Data Science and AWS enthusiast with a strong interest in research and innovation.</h3>**
+**<h3 align="center">I'm a passionate Data Science and AWS enthusiast with a strong interest in research and innovation.</h3>**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas39322&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas39322" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P1MR1k85iXlYb3TzmflBrh3YRngc4rOD/view?usp=sharing](https://drive.google.com/file/d/1P1MR1k85iXlYb3TzmflBrh3YRngc4rOD/view?usp=sharing)
 
-## ⚡ Fun fact:
+### ⚡ Fun fact:
 
 🍳 Passionate cook inspired by my grandma’s recipes.
 
