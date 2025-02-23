@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **saisrinivas39322@gmail.com**
 
-- 📄 Know about my experiences Resume(https://drive.google.com/file/d/1P1MR1k85iXlYb3TzmflBrh3YRngc4rOD/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1J2usJg-rrwSFSC368b32qhpD7QR5J7uW/view?usp=sharing)
 
 ---
 
