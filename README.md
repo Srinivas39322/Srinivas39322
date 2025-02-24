@@ -1,3 +1,6 @@
+[![Alt Text](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
+
+
 ## <h1 align="center">Hello Folks! 🦹  I'm Srinivas Saiteja Tenneti</h1>
 **<h3 align="center">I'm a passionate Data Science and AWS enthusiast with a strong interest in research and innovation.</h3>**
 
