@@ -11,6 +11,10 @@
 ### 💫 About Me:
 - 🔭 I’m currently working on **Hybrid Methods for Detecting Duplicate Questions Using Machine Learning and Neural Networks.**
 
+<p align="right">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAzNjgyMjgsIm5iZiI6MTc0MDM2NzkyOCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI0VDAzMzIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5NWM1N2E2YjFlY2E4YmU5ODhmNTdiMDAyN2ZkMmZjMTQzYWEwM2YzMDE2MjJmYzQ2OTE4MzBkYTZjOGRlNTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.t5PH_PQUm1gelCYZOCa1HN7yijUEed1iSEZ-vCRTO7I" width="300px" alt="Right Aligned Image">
+</p>
+
 - 🌱 I’m currently learning **Machine Learning & Deep Learning.**
 
 - 👨‍💻 All of my projects are available at [abcd](abcd)
@@ -20,10 +24,6 @@
 - 📫 How to reach me **saisrinivas39322@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1J2usJg-rrwSFSC368b32qhpD7QR5J7uW/view?usp=sharing)
-
-<p align="right">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAzNjgyMjgsIm5iZiI6MTc0MDM2NzkyOCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI0VDAzMzIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5NWM1N2E2YjFlY2E4YmU5ODhmNTdiMDAyN2ZkMmZjMTQzYWEwM2YzMDE2MjJmYzQ2OTE4MzBkYTZjOGRlNTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.t5PH_PQUm1gelCYZOCa1HN7yijUEed1iSEZ-vCRTO7I" width="300px" alt="Right Aligned Image">
-</p>
 
 ---
 
