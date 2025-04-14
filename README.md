@@ -1,4 +1,4 @@
-![Github Cover](Github cover image.png)
+![Github Cover](https://github.com/Srinivas39322/Srinivas39322/blob/main/Github_Cover.png)
 
 
 
