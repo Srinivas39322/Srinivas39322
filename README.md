@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q8TOfTermi_m9MFhpc5nlVvojCdYt-Ia/view?usp=sharing)
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4MTI5MTQsIm5iZiI6MTc0MTgxMjYxNCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDIwNTAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhZDlmN2NiMmJlYWE1M2Y1NDI4ODI1NmQzYjMyYjk1MDQyZDMzZjgxYmNkNzk5MTI1NzBhYzViY2Q4ODVhYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Wk0i_OACodPtyaHKxgo3DLSsT42R7bfyi4wTtNLwaRY">
+<img align="right" alt="Coding" width="400" src="https://github.com/Srinivas39322/Srinivas39322/raw/main/Molecules_Dance.gif">
 
 ---
 
