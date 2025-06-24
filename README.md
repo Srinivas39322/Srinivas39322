@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **saisrinivas39322@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q8TOfTermi_m9MFhpc5nlVvojCdYt-Ia/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y3Ik5g59RhGTqraENHYWkllc9Ur64c7g/view?usp=sharing)
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Srinivas39322/Srinivas39322/raw/main/Molecules_Dance.gif">
 
